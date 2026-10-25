@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WixLocalization Culture="en-US" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <String Id="LaunchApp">Launch midi-fiesta</String>
+  <String Id="DowngradeErrorMessage">A newer version of midi-fiesta is already installed.</String>
+  <String Id="PathEnvVarFeature">Add the midi-fiesta install location to the PATH environment variable.</String>
+  <String Id="InstallAppFeature">Installs midi-fiesta.</String>
+  <String Id="WelcomeDlgDescription" Overridable="yes">To use MIDI Fiesta, install the teVirtualMIDI driver and interface DLL, or use Windows 11 version 25H2 or later with Windows MIDI Services enabled.</String>
+</WixLocalization>
