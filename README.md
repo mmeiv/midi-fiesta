@@ -1,6 +1,10 @@
-# midi-fiesta
+# <img src="src-tauri/icons/icon.png" width="40" alt=""> midi-fiesta
 
 A small Windows app for making temporary MIDI connections between music programs, including Ableton Live.
+
+## Download
+
+Download the latest Windows installer from the [GitHub Releases](https://github.com/mmeiv/midi-fiesta/releases) page. Choose the `.exe` or `.msi` installer.
 
 ## MIDI backends
 

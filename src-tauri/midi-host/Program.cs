@@ -101,7 +101,8 @@ sealed class WindowsMidiServicesBackend : IHostedMidiBackend
             SpecificationVersionMinor = 1,
             SupportsMidi10Protocol = true,
             SupportsMidi20Protocol = false,
-            HasStaticFunctionBlocks = true
+            HasStaticFunctionBlocks = true,
+            DeclaredFunctionBlockCount = 1
         };
         var config = new MidiVirtualDeviceCreationConfig(name, "Temporary virtual MIDI port created by midi-fiesta", "midi-fiesta", endpointInfo)
         {
